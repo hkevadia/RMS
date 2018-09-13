@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* header css code start */
+.header {
+	width:100%;
+	height:70px;
+	background-color:#F8F8F8;
+}
+/* header css code end */
+/* button css  code starts */
+.button {
+	background-color:#2A7FFF;
+	margin-right:43px;
+	margin-top:20px;
+	float:right;
+	padding:7px;
+	color:#FFF;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
+/* button css  code ends */
+/* submit css  code starts */
+.registrationFormSubmit {
+	background-color:#2A7FFF;
+	padding:2%;
+	color:#FFF;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
+/* submit css  code ends */
+/* content css  code starts */
+.content {
+	color:#555555;
+	text-align:center;
+}
+/* content css  code ends */
+/* registerationform css  code starts */
+.registerationForm {
+	background-color:#F8F8F8;
+	height:1000px;
+	width:350px;
+	margin-left:39%;
+	padding:2%;
+}
+/* registerationform css  code ends */
+/* form css  code starts */
+.form {
+	color:black;
+}
+/* form css  code ends */
+/* footer css  code starts */
+.footer {
+ width:100%  height:auto;
+	text-align:center;
+	background-color:#F8F8F8;
+	margin-top:200px;
+}
+/* form css  code ends */
+
+/* loginheader css code starts */
+.loginHeader {
+	width:100%;
+	height:90px;
+
+}
+/* header css code ends */
+/* loginimg css code starts */
+.loginImg{
+	margin-left:42%;
+	
+}
+/* loginimg css code ends */
+/* h2 css code starts */
+h2{
+	color:grey;
+}
+/* h2 css code ends */
+/* h4 css code starts */
+h4{
+	color:grey;
+	text-decoration:none;
+}
+/* h4 css code ends */
+/* login css code starts */
+.login{
+		height:300px;
+		width:350px;
+		background-color:#F8F8F8;
+		padding:2%;
+		margin-left:35%;
+}
+/* login css code ends */
+/* next css code starts */
+.next {
+	background-color:#2A7FFF;
+	padding:2%;
+	color:#FFF;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
+/* next css code ends */
+/* anchor tag's css code starts */
+a{
+	align:center;
+}
+/* anchor tag's css code ends */
+.forgotPasswordHeader{
+	
+	
+	
+	height:70px;
+
+	
+}
+.forgotPassword{
+	height:350px;
+		width:350px;
+		background-color:#F8F8F8;
+		padding:4%;
+		margin-left:35%;
+		margin-top:71px;
+	
+}
+.img{
+	margin-left:42%;
+}
+.forgotPasswordSubmit {
+	background-color:#2A7FFF;
+	padding:2%;
+	color:#FFF;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
+
+
+.error
+{
+	color:red;
+    font-style:italic;
+}
+/* security division code starts */
+.security{
+	height:300px;
+	width:350px;
+	background-color:#F8F8F8;
+	margin-left:35%;
+	padding:2%;
+}
+/* security division code ends */
+.securityNext {
+	background-color:#2A7FFF;
+	padding:2%;
+	color:#FFF;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	text-transform:uppercase;
+}
